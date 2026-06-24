@@ -1,0 +1,6 @@
+{
+  "name": "Hotel Grand SR Azamgarh",
+  "description": "The premium 3 to 3.5-star classified hotel booking website in Azamgarh town, offering premium room bookings, weddings & events banquets at Aroma Hall, and casual dining at Aroma Cafe.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
